@@ -21,4 +21,6 @@ public class ProcesorCompus implements Procesor {
 
         return res;
     }
+
+    public void altaSchimbare(){}
 }
