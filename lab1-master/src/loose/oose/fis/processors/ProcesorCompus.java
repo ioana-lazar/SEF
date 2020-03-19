@@ -21,6 +21,11 @@ public class ProcesorCompus implements Procesor {
 
         return res;
     }
+<<<<<<< HEAD
 
     public void altaSchimbare(){}
+=======
+    
+    public void schimbare() {}
+>>>>>>> newBranch
 }
